@@ -1,0 +1,24 @@
+{
+  "name": "ng2-sortable",
+  "version": "0.0.1",
+  "description": "Angular 2 directives to drag and drop collections",
+  "main": "ng2-sortable.js",
+  "typings": "ng2-sortable.d.ts",
+  "keywords": [
+    "angular2",
+    "angularjs"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valor-software/ng2-sortable.git"
+  },
+  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valor-software/ng2-sortable/issues"
+  },
+  "homepage": "https://github.com/valor-software/ng2-sortable#readme"
+}
